@@ -1,0 +1,11 @@
+.projects{
+    position: relative;
+    min-height: 100vh;
+}
+
+
+.row{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin: 10px;
+}

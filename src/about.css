@@ -1,0 +1,21 @@
+.img-container{
+    display: block;
+    text-align: center;
+}
+
+
+.profile-pic{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about-text{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.social-logos a{
+    padding: 20px;
+}
