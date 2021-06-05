@@ -12,7 +12,7 @@ const projects=[
     {
         title: "CV Website",
         content: "Utilizing React.js I created a web application to highlight my personal projects, skills, and experience and share my resume.  I utilized the Bootstrap framework to apply responsive styling to the web app.",
-        link: ""
+        link: "https://github.com/KhalidRajan/Portfolio-Website"
     },
     {
         title: "Wikipedia Page Summarizer",
