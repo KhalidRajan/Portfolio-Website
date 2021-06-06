@@ -11,7 +11,7 @@ function App() {
         <BrowserRouter>
             <Navigation/>
             <Switch>
-                <Route exact path="/">
+                {/* <Route exact path="/">
                     <Home />
                 </Route>
                 <Route exact path="/about">
@@ -19,7 +19,10 @@ function App() {
                 </Route>
                 <Route exact path="/projects">
                     <Projects/>
-                </Route>
+                </Route> */}
+                <Route exact path="/" component={Home}/>
+                <Route exact path="/about" component={About}/>
+                <Route exact path="/projects" component={Projects}/>
             </Switch> 
         </BrowserRouter>
     )
