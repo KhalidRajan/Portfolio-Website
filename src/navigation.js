@@ -16,6 +16,9 @@ function Navigation(){
                         <li class="nav-item">
                             <Link class="nav-link" to={"/projects"}>Projects</Link>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://drive.google.com/file/d/1ik1n1J7bJ9DqVmC8MMiImBWfWLAiDqOj/view?usp=sharing">Resume</a>
+                        </li>
                     </ul>
 
                 </div>

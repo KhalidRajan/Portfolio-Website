@@ -15,6 +15,11 @@ const projects=[
         link: "https://github.com/KhalidRajan/Portfolio-Website"
     },
     {
+        title: "Weather Net X",
+        content: "I developed an app to display current weather data in a specified city.  The app fetches data from the OpenWeather API and displays the data in a UI built with React.js.",
+        link: "https://github.com/KhalidRajan/Weather-App"
+    },
+    {
         title: "Wikipedia Page Summarizer",
         content: "I created a Python app to summarize the contents of Wikipedia pages.  The app utilizies the Requests and BeautifulSoup libraries to scrape content from the Wikipedia pages.  The app then uses the NLTK library to preprocess the scraped content, and implements a word frequency-based scoring system to extract the most important sentences which form the summary of the Wikipedia page content.",
         link: "https://github.com/KhalidRajan/Wikipedia-Page-Summarizer/tree/main"
