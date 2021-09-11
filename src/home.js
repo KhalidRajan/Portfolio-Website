@@ -4,8 +4,8 @@ import "./home.css"
 
 function Home(){
     return (
-        <div className="home" style={{backgroundImage: "url(images/background-image.jpg)"}}>
-                <h1>Hi, I am Khalid!</h1>
+        <div className="home" style={{backgroundImage: "url(images/software.jpg)"}}>
+                <h1>Hey, I am Khalid!</h1>
                 <div className="typewrite">
                     <Typewriter
                         onInit={(typewriter)=>{
