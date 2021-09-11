@@ -8,6 +8,7 @@ function Projects(){
 
         projects.map(project=>{
             return (<Project
+                image={project.image}
                 title={project.title}
                 content={project.content}
                 link={project.link}
