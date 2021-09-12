@@ -19,7 +19,7 @@ function About(){
                 I love to engage in projects, where I have an opportunity to leverage Machine Learning and manipulate data to extract meaningful insights.
                 </p>
                 <br/>
-                <p>My hobbies include playing and watching sports, reading, and travelling.  I am a life-long Arsenal, Toronto Raptors, and Toronto Blue Jays fan.  Outside of sports, I enjoy reading books and binge-watching series/movies on Netflix.  I am also a passionate traveller, as I enjoy exploring new cities and cultures around the world!</p>
+                <p>I am a life-long Arsenal, Toronto Raptors, and Toronto Blue Jays fan.  Outside of sports, I enjoy reading books and binge-watching series/movies on Netflix.  I am also a passionate traveller, as I enjoy exploring new cities and cultures around the world!</p>
                 <br/>
                 <p>Please feel free to connect with me on LinkedIn and reach out!</p>
             </div>
