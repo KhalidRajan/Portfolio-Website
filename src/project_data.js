@@ -1,5 +1,11 @@
 const projects=[
     {
+        image: "images/TradeMarquis.png",
+        title: "Trade Marquis",
+        content: "As part of my undergraduate capstone project, I am working in a team of 3 students to develop a cost-effective web-based tool that leverages Deep Learning to identify trademark infringements.  We have adopted a distilled transformer model from the HuggingFace NLP library to classify product descriptions into product categories (NICE categories) defined by the World Intellectual Property Organization (WIPO).  We have implemented a Siamese Resnet in PyTorch to compare logos for similarity.  The ML models are being deployed in an AWS environment using the TorchServe framework, and we are developing a UI utilizing React.js, so users can interact with our models through a webpage.",
+        link: "https://github.com/KhalidRajan/UndegradCapstone"
+    },
+    {
         image: "images/face_detect.png",
         title:"Face Mask Detection Application",
         content:"I developed a custom Convolutional Neural Network (CNN) using Keras to detect if individuals are wearing face masks.  I trained the CNN using a Kaggle dataset containing 25,000 images.  I then used the CNN in an OpenCV application to recognize if individuals are wearing face masks in real-time by capturing video from webcams and then utilizing the Haar Cascade classifier to recognize faces in the video captures and then applying the CNN to predict if individuals are wearing face masks.",
