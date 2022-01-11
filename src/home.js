@@ -12,16 +12,13 @@ function Home(){
                             typewriter
 
                             .typeString("I am a Software Engineer.")
-                            .pauseFor(1000)
-                            .deleteAll()
-                            .typeString("I am pursuing a Bachelor's degree in Computer Engineering.")
-                            .pauseFor(1000)
+                            .pauseFor(750)
                             .deleteAll()
                             .typeString("I love writing code and building cool apps!")
-                            .pauseFor(1000)
+                            .pauseFor(750)
                             .deleteAll()
                             .typeString("I am very interested in developments in the Machine Learning realm.")
-                            .pauseFor(1000)
+                            .pauseFor(750)
                             .deleteAll()
                             .typeString("Please feel free to reach out!")
                             .start();
