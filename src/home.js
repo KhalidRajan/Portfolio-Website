@@ -14,7 +14,7 @@ function Home(){
                             .typeString("I am a Software Engineer.")
                             .pauseFor(750)
                             .deleteAll()
-                            .typeString("I love writing code and building cool apps!")
+                            .typeString("I am passionate about developing software to solve complex problems.")
                             .pauseFor(750)
                             .deleteAll()
                             .typeString("I am very interested in developments in the Machine Learning realm.")
