@@ -8,18 +8,14 @@ function About(){
                 <img className="profile-pic" src="/images/khalid.png" alt="Profile Picture"/>
             </span>
             <div className="about-text">
-                <p>I am a software engineer and I have a passion for writing code and developing software that solves complex problems.
-                I am currently pursuing a Computer Engineering undergraduate degree at Queen's University.  I make a concerted effort to independently extend my learning beyond the classroom by pursuing online courses and working on cool projects.</p>
+                <p>I am a software engineer and I have a passion for developing software and leveraging accelerating technologies to solve complex problems.
+                I am currently pursuing a Computer Engineering undergraduate degree at Queen's University.</p>
                 <br/>
-                <p>I have prior experience constructing software applications utilizing Python, Java, JavaScript, MySQL and MongoDB.  My strong grasp of algorithms, data structures, and design patterns such as Object-Oriented Programming enable me to utilize these tools to build apps that solve problems.  I have taken the initiative to independently learn about Full-Stack Web Development and various front-end and back-end development frameworks.  
-                My favorite framework to work with is React.js, as I love the simplicity, reusability, and modularity of React applications.</p>
+                <p>I have prior experience constructing software applications utilizing Python, Java, JavaScript, MySQL and MongoDB.  My strong grasp of core CS fundamentals including algorithms, data structures, and Object-Oriented design provide me with a strong foundation to add new technologies and frameworks to my arsenal.</p>
                 <br/>
-                <p>I am fascinated by developments in the Machine Learning field.  I have completed the Machine Learning course offered by Stanford Univeristy and the Deep Learning specialization on Coursera offered by deeplearning.ai to improve my understanding of different supervised and unsupervised learning algorithms and neural networks.
-                I have competency utilizing Python and the Pandas, NLTK, SpaCy, Sci-kit Learn, TensorFlow and Keras to preprocess data and build powerful ML models.
-                I love to engage in projects, where I have an opportunity to leverage Machine Learning and manipulate data to extract meaningful insights.
-                </p>
+                <p>I am especially passionate about developments in the Artificial Intelligence space.  I enjoy working on projects, where I can leverage state-of-the-art Machine Learning techniques.  I have proficiency working with modern Natural Language Processing (NLP) tools and techniques to help machines interpret and extract insight from the human language.</p>
                 <br/>
-                <p>I am a life-long Arsenal, Toronto Raptors, and Toronto Blue Jays fan.  Outside of sports, I enjoy reading books and binge-watching series/movies on Netflix.  I am also a passionate traveller, as I enjoy exploring new cities and cultures around the world!</p>
+                <p>I am a life-long Arsenal and Toronto Raptors fan.  Aside from sports, I enjoy reading books and binge-watching series/movies on Netflix.  I am also a passionate traveller, as I enjoy exploring new cities and cultures around the world.</p>
                 <br/>
                 <p>Please feel free to connect with me on LinkedIn and reach out!</p>
             </div>
